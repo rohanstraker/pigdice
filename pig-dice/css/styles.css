@@ -1,0 +1,19 @@
+div {
+  background-color: white;
+  width: 300px;
+  border: 25px solid red;
+  padding: 25px;
+  margin: 25px;
+  float: left;
+}
+.player-console {
+  display: none;
+}
+#player-1 {
+  background-color: white;
+  width: 300px;
+  border: 25px solid red;
+  padding: 25px;
+  margin: 25px;
+  float: left;
+}
