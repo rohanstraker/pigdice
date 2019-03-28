@@ -1,0 +1,44 @@
+.start-menu {
+  background-color: white;
+  width: 600px;
+  border: 25px solid red;
+  padding: 25px;
+  margin: 25px;
+  float: left;
+}
+.player-console {
+
+  background-color: white;
+  width: 300px;
+  display: none;
+  border: 25px solid red;
+  padding: 25px;
+  margin: 25px;
+  float: left;
+}
+#player-1 {
+  background-color: white;
+  width: 150px;
+  border: 25px solid red;
+  padding: 25px;
+  margin: 25px;
+  float: left;
+}
+
+#player-2 {
+  background-color: white;
+  width: 150px;
+  border: 25px solid red;
+  padding: 25px;
+  margin: 25px;
+  float: left;
+}
+#story {
+  display: none;
+}
+#story2 {
+  display : none;
+}
+#story3 {
+  display : none;
+}
